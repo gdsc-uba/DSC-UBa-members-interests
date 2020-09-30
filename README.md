@@ -1,1 +1,1 @@
-# DSC-UBa-members-interests
+# DSC-UBa-members-interests (Hacktoberfest mini-project 3)
