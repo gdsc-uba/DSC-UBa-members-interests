@@ -11,3 +11,9 @@ Member Id: null
 * Role model: null
 
 ### Interests
+Member Id: 1
+* Favourite Programming Language: Python
+* Track of interest: Data Science
+* Favourite quote: Java is to JavaScript what car is to Carpet.
+* Author of quote: Chris Heilmann
+* Role model: Margaret Hamilton
