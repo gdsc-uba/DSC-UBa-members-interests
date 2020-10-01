@@ -17,3 +17,12 @@ Member Id: 1
 * Favourite quote: Java is to JavaScript what car is to Carpet.
 * Author of quote: Chris Heilmann
 * Role model: Margaret Hamilton
+
+
+Member Id: 1
+* Favourite Programming Language: Python
+* Track of interest: Artificial Intelligence
+* Favourite quote: We are what we repeatedly do. Excellence, then, is not an act but a habit
+* Author of quote: Aristotle
+* Role model: Estelle Yomba
+ 
