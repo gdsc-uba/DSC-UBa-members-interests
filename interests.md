@@ -26,3 +26,9 @@ Member Id: 1
 * Author of quote: Aristotle
 * Role model: Estelle Yomba
  
+ Member Id: 2
+* Favourite Programming Language: Python
+* Track of interest: Artificial Intelligence
+* Favourite quote: In a gentle way, you can shake the world.
+* Author of quote: Mahatma Ghandi
+* Role model: Hedy Lamarr 
