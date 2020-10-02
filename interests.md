@@ -32,3 +32,10 @@ Member Id: 1
 * Favourite quote: In a gentle way, you can shake the world.
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
+
+Member Id: 5
+* Favourite Programming Language: Javascript
+* Track of interest: Cryptography
+* Favourite quote: Find what you love and let it kill you
+* Author of quote: Bukwoski
+* Role model: Bill Gates
