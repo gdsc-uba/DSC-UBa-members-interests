@@ -32,3 +32,11 @@ Member Id: 1
 * Favourite quote: In a gentle way, you can shake the world.
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
+
+Member Id: 4
+
+Favourite Programming Language: Python,sql
+Track of interest: M and AI
+Favourite quote: null
+Author of quote: null
+Role model: null
