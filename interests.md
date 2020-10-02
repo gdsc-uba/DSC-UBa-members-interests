@@ -38,4 +38,4 @@ Member Id: 5
 * Track of interest: Data Analyst
 * Favourite quote: Everything you want is on the other side of fear 
 * Author of quote: Jack Canfield 
-* Role model: Brenna Berman
+* Role model: Julianna Rotich
