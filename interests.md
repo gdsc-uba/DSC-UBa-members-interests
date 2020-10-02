@@ -32,3 +32,12 @@ Member Id: 1
 * Favourite quote: In a gentle way, you can shake the world.
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
+
+
+
+Member Id: 5
+* Favourite Programming Language: Dart/Flutter
+* Track of interest: UI/UX/Graphic Design
+* Favourite quote: Get the job done.
+* Author of quote: Chris Do
+* Role model: null
