@@ -37,7 +37,7 @@ Member Id: 1
 Member Id: 5
 * Favourite Programming Language:PHP
 * Track of interest: Database systems
-* Favourite quote: Become the best programer ever
+* Favourite quote: "Don't feel low when someone doubts your cuber. Just be proud of yourself. Because people always doubts the 'Gold' for it's purity, not the 'Iron'"
 * Author of quote: Mosh
 * Role model: Dr Noida
 
