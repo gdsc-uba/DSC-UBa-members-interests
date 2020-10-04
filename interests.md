@@ -40,10 +40,18 @@ Member Id: 2
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
 
+Member Id: 5
+* Favourite Programming Language: Python 
+* Track of interest: Data Analyst
+* Favourite quote: Everything you want is on the other side of fear 
+* Author of quote: Jack Canfield 
+* Role model: Julianna Rotich
+
 Member Id: 4
 * Favourite Programming Language: Python
 * Track of interest: Data science
 * Favourite quote: whatever you are, be a good one
 * Author of quote: Abraham Lincoln
 * Role model: Katherine Johnson
+
 
