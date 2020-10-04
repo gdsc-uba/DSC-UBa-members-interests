@@ -32,3 +32,37 @@ Member Id: 1
 * Favourite quote: In a gentle way, you can shake the world.
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
+# DSC UBa Members Interests (Hacktoberfest mini-project 3)
+
+###### Edit this file by adding your details below using the template given. (Copy and Paste the template).
+
+#### Template
+Member Id: 4
+* Favourite Programming Language: C++
+* Track of interest: OOP
+* Favourite quote: I know that I know nothing
+* Author of quote: Plato
+* Role model: Einstein
+
+### Interests
+Member Id: 1
+* Favourite Programming Language: Python
+* Track of interest: Data Science
+* Favourite quote: Java is to JavaScript what car is to Carpet.
+* Author of quote: Chris Heilmann
+* Role model: Margaret Hamilton
+
+
+Member Id: 1
+* Favourite Programming Language: Python
+* Track of interest: Artificial Intelligence
+* Favourite quote: We are what we repeatedly do. Excellence, then, is not an act but a habit
+* Author of quote: Aristotle
+* Role model: Estelle Yomba
+ 
+ Member Id: 2
+* Favourite Programming Language: Python
+* Track of interest: Artificial Intelligence
+* Favourite quote: In a gentle way, you can shake the world.
+* Author of quote: Mahatma Ghandi
+* Role model: Hedy Lamarr 
