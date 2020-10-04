@@ -42,6 +42,14 @@ Member Id: 2
 
 
 Member Id: 5
+* Favourite Programming Language: Javascript
+* Track of interest: Cryptography
+* Favourite quote: Find what you love and let it kill you
+* Author of quote: Bukwoski
+* Role model: Bill Gates
+
+
+Member Id: 5
 * Favourite Programming Language: Dart/Flutter
 * Track of interest: UI/UX/Graphic Design
 * Favourite quote: Get the job done.
@@ -83,3 +91,4 @@ Member Id: 4
 * Favourite quote: whatever you are, be a good one
 * Author of quote: Abraham Lincoln
 * Role model: Katherine Johnson
+
