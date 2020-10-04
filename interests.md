@@ -41,6 +41,13 @@ Member Id: 2
 * Role model: Hedy Lamarr 
 
 
+Member Id: 5
+* Favourite Programming Language: Dart/Flutter
+* Track of interest: UI/UX/Graphic Design
+* Favourite quote: Get the job done.
+* Author of quote: Chris Do
+* Role model: null
+
 Member Id: 3
 * Favourite Programming Language: Java
 * Track of interest: Networking
@@ -76,6 +83,3 @@ Member Id: 4
 * Favourite quote: whatever you are, be a good one
 * Author of quote: Abraham Lincoln
 * Role model: Katherine Johnson
-
-
-
