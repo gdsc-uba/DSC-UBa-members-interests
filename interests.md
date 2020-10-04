@@ -32,3 +32,11 @@ Member Id: 1
 * Favourite quote: In a gentle way, you can shake the world.
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
+
+
+Member Id: null
+* Favourite Programming Language: Python
+* Track of interest: Big data
+* Favourite quote:Controling complexity is the essence of computer programming
+* Author of quote: Brian Kernighan
+* Role model: Betelhem Dessie
