@@ -40,6 +40,14 @@ Member Id: 2
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
 
+
+Member Id: 3
+* Favourite Programming Language: Java
+* Track of interest: Networking
+* Favourite quote: yes I can
+* Author of quote: Barack Obama
+* Role model: Ada lovelace
+
 Member Id: 5
 * Favourite Programming Language: Python
 * Track of interest: Web Development
