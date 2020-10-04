@@ -37,6 +37,6 @@ Member Id: 1
 Member Id: 4
 * Favourite Programming Language: Python
 * Track of interest: Big data
-* Favourite quote: Controling complexity is the essence of computer programming
+* Favourite quote: Controling complexity is the essence of Computer programming
 * Author of quote: Brian Kernighan
 * Role model: Betelhem Dessie
