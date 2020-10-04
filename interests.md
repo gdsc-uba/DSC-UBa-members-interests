@@ -25,11 +25,18 @@ Member Id: 1
 * Favourite quote: We are what we repeatedly do. Excellence, then, is not an act but a habit
 * Author of quote: Aristotle
 * Role model: Estelle Yomba
- 
-####Interests
+
 Member Id: 2
 * Favourite Programming Language: Python
 * Track of interest: Data Science
 * Favourite quote:Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.
 * Author of quote: Steve Jobs
 * Role model: Steve Jobs
+
+ Member Id: 2
+* Favourite Programming Language: Python
+* Track of interest: Artificial Intelligence
+* Favourite quote: In a gentle way, you can shake the world.
+* Author of quote: Mahatma Ghandi
+* Role model: Hedy Lamarr 
+
