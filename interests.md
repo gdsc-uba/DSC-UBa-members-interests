@@ -41,6 +41,13 @@ Member Id: 2
 * Role model: Hedy Lamarr 
 
 
+Member Id: 4
+* Favourite Programming Language: Python
+* Track of interest: Big data
+* Favourite quote: Controling complexity is the essence of Computer programming
+* Author of quote: Brian Kernighan
+* Role model: Betelhem Dessie
+
 Member Id: 5
 * Favourite Programming Language: Javascript
 * Track of interest: Cryptography
@@ -91,4 +98,3 @@ Member Id: 4
 * Favourite quote: whatever you are, be a good one
 * Author of quote: Abraham Lincoln
 * Role model: Katherine Johnson
-
