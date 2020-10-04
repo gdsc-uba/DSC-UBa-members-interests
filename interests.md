@@ -40,6 +40,14 @@ Member Id: 2
 * Author of quote: Mahatma Ghandi
 * Role model: Hedy Lamarr 
 
+
+Member Id: 5
+* Favourite Programming Language:PHP
+* Track of interest: Database systems
+* Favourite quote: "Don't feel low when someone doubts your cuber. Just be proud of yourself. Because people always doubts the 'Gold' for it's purity, not the 'Iron'"
+* Author of quote: Mosh
+* Role model: Dr Noida
+
 Member Id: 5
 * Favourite Programming Language: Python 
 * Track of interest: Data Analyst
@@ -53,5 +61,6 @@ Member Id: 4
 * Favourite quote: whatever you are, be a good one
 * Author of quote: Abraham Lincoln
 * Role model: Katherine Johnson
+
 
 
