@@ -98,3 +98,9 @@ Member Id: 4
 * Favourite quote: whatever you are, be a good one
 * Author of quote: Abraham Lincoln
 * Role model: Katherine Johnson
+Member Id: 5
+* Favourite Programming Language: Python
+* Track of interest: Artificial Intelligence
+* Favourite quote: The future belongs to those who believe in the beauty of their dreams 
+* Author of quote: Eleanor Roosevelt
+* Role model: null
