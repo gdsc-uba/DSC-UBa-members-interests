@@ -98,3 +98,10 @@ Member Id: 4
 * Favourite quote: whatever you are, be a good one
 * Author of quote: Abraham Lincoln
 * Role model: Katherine Johnson
+
+Member Id: 6
+* Favourite Programming Language: java
+* Track of interest: Android app development
+* Favourite quote: If you can't explain it simply, you don't understand it well enough.
+* Author of quote: Albert Einstein
+* Role model: Albert
