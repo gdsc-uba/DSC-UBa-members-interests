@@ -105,3 +105,10 @@ Member Id: 6
 * Favourite quote: If you can't explain it simply, you don't understand it well enough.
 * Author of quote: Albert Einstein
 * Role model: Albert
+
+Member Id: 5
+* Favourite Programming Language: Python
+* Track of interest: Artificial Intelligence
+* Favourite quote: The future belongs to those who believe in the beauty of their dreams 
+* Author of quote: Eleanor Roosevelt
+* Role model: null
