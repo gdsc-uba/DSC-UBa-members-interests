@@ -111,3 +111,10 @@ Member Id: 9
 * Favourite quote: Beauty better than ugly 
 * Author of quote: yokwejuste
 * Role model: ....
+
+Member Id: 6
+* Favourite Programming Language: python/kotlin
+* Track of interest: machine learning, app development
+* Favourite quote:  you know the true meaning of peace only if you have been through the war
+* Author of quote: kosovar
+* Role model: Elon Musk.
