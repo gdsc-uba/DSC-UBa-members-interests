@@ -118,3 +118,10 @@ Member Id: 6
 * Favourite quote:  you know the true meaning of peace only if you have been through the war
 * Author of quote: kosovar
 * Role model: Elon Musk.
+
+Member Id: 3
+* Favourite Programming Language: Javascript
+* Track of interest: mobile/web development
+* Favourite quote: 'People don't buy what you do; they buy why you do it'
+* Author of quote: Simon Sinek
+* Role model: Denva
