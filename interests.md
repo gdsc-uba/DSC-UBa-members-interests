@@ -113,8 +113,16 @@ Member Id: 9
 * Role model: ....
 
 Member Id: 6
-* Favourite Programming Language: python/kotlin
+Programming Language: python/kotlin
 * Track of interest: machine learning, app development
 * Favourite quote:  you know the true meaning of peace only if you have been through the war
 * Author of quote: kosovar
 * Role model: Elon Musk.
+
+Member Id: 1
+* Favourite Programming Language: PHP
+* Track of interest: Web Development(front end/back end) 
+* Favourite quote: What we think, we become 
+* Author of quote: Buddha 
+* Role model: Olivia Kouanda
+
