@@ -104,3 +104,10 @@ Member Id: 5
 * Favourite quote: The future belongs to those who believe in the beauty of their dreams 
 * Author of quote: Eleanor Roosevelt
 * Role model: null
+
+Member Id: 9
+* Favourite Programming Language: Python
+* Track of interest: Web Development
+* Favourite quote: Beauty better than ugly 
+* Author of quote: yokwejuste
+* Role model: ....
