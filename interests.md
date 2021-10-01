@@ -185,3 +185,9 @@ Member Id: 8
 * Author of quote: Anaïs Nin
 * Role model: Ngochi Huebert
  
+ Member Id: 10
+* Favourite Programming Language: JavaScript
+* Track of interest: MERN Stack Developer
+* Favourite quote: “Truth can only be found in one place: the code.”
+* Author of quote: Robert C. Martin
+* Role model: Bill Gates
