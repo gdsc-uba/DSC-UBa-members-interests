@@ -191,3 +191,10 @@ Member Id: 8
 * Favourite quote: “Truth can only be found in one place: the code.”
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
+
+Member Id: 11
+* Favourite Programming Language: Python
+* Track of interest: Data Science Machne Learning and Artificial Intelligence
+* Favourite quote: "Imagination is more important than knoledge."
+* Author of quote: Albert Einstein
+* Role model: Marshal Mathers
