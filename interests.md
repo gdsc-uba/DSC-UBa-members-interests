@@ -119,6 +119,13 @@ Programming Language: python/kotlin
 * Author of quote: kosovar
 * Role model: Elon Musk.
 
+  
++ Id: 7
+* Favourite Programming Language: Java script
+* Track of interest: web specialist
+* Favourite quote:  you know the true meaning of peace only if you have been through the war
+* Author of quote: kosovar
+* Role model: Elon Musk. 
    
 Member Id: 3
 * Favourite Programming Language: Javascript
@@ -141,4 +148,5 @@ Member Id: 17
 * Author of quote: Albert Einstein 
 * Role model: mark Zuckerberg 
 
+   
    
