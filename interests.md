@@ -197,5 +197,5 @@ Member Id: 8
 * Track of interest: Data Science
 * Favourite quote: “You may delay, but time will not”
 * Author of quote: Benjamin Franklin
-* Role model: Martin Ngassa
+* Role model: Mrs. Martin Ngassa
 
