@@ -194,6 +194,13 @@ Member Id: 8
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
 
+Member Id: 11
+* Favourite Programming Language: Dart/Flutter
+* Track of interest: mobile development, data analysis, data science
+* Favourite quote:  "The purpose of our lives is to be happy"
+* Author of quote: Dalai Lama 
+* Role model: Carla Gentry 
+
 Member Id: 12
 Favourite Programming Language: Python
 Track of interest: Data Science
