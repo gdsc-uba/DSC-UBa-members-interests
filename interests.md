@@ -170,6 +170,8 @@ Member Id: 17
 * Author of quote: Albert Einstein 
 * Role model: mark Zuckerberg 
 
+
+
 Member Id: 8
 * Favourite Programming Language: Rust
 * Track of interest: Web/App and System Dev, ML and AI
@@ -191,3 +193,11 @@ Member Id: 8
 * Favourite quote: “Truth can only be found in one place: the code.”
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
+
+Member Id: 12
+
+Favourite Programming Language: Python
+Track of interest: Data Science
+Favourite quote: Stay faithful to the stories in your head
+Author of quote: Paula Hawkins
+Role model: null
