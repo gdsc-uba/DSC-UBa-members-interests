@@ -170,6 +170,13 @@ Member Id: 17
 * Author of quote: Albert Einstein 
 * Role model: mark Zuckerberg 
 
+Member Id: 8
+* Favourite Programming Language: Rust
+* Track of interest: Web/App and System Dev, ML and AI
+* Favourite quote:  "Nothing matters"
+* Author of quote: Elroy Kanye
+* Role model: Elroy Kanye
+
    
 Member Id: 8
 * Favourite Programming Language: Python
