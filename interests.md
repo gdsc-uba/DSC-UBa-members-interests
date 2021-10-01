@@ -134,6 +134,13 @@ Programming Language: python/kotlin
 * Author of quote: kosovar
 * Role model: Elon Musk.
 
+Member Id: 9
+* Favourite Programming Language: Python
+* Track of interest: Web Development
+* Favourite quote: Beauty better than ugly 
+* Author of quote: yokwejuste5013
+* Role model: ....
+
   
 + Id: 7
 * Favourite Programming Language: Java script
@@ -166,4 +173,3 @@ Member Id: 17
    
    
  
-
