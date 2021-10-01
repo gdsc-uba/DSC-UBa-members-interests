@@ -139,7 +139,7 @@ Member Id: 9
 * Track of interest: Web Development
 * Favourite quote: Beauty better than ugly 
 * Author of quote: yokwejuste5013
-* Role model: ....
+* Role model: Elon musk
 
   
 + Id: 7
@@ -198,3 +198,17 @@ Track of interest: Mobile app developer
 Favourite quote: Everything you want is on the other side of fear
 Author of quote: Jack Canfield
 Role model: Julianna Rotich
+
+Member Id: 9
+* Favourite Programming Language: Java
+* Track of interest: Blockchain development
+* Favourite quote: Privacy is the key to success
+* Author of quote: Spyke Lionel
+* Role model: NDI Lionel
+
+Member Id: 11
+* Favourite Programming Language: Python
+* Track of interest: Data Science Machne Learning and Artificial Intelligence
+* Favourite quote: "Imagination is more important than knoledge."
+* Author of quote: Albert Einstein
+* Role model: Marshal Mathers
