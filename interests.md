@@ -191,3 +191,11 @@ Member Id: 8
 * Favourite quote: “Truth can only be found in one place: the code.”
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
+
+ Member Id: 10
+* Favourite Programming Language: Python
+* Track of interest: Data Science
+* Favourite quote: “You may delay, but time will not”
+* Author of quote: Benjamin Franklin
+* Role model: Martin Ngassa
+
