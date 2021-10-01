@@ -111,3 +111,10 @@ Member Id: 9
 * Favourite quote: Beauty better than ugly 
 * Author of quote: yokwejuste
 * Role model: ....
+
+Member Id: 1
+* Favourite Programming Language: Python
+* Track of interest: Web devolopement
+* Favourite quote: Imagination is more important than knowledge
+* Author of quote: Albert Einstein
+* Role model: Mark zuckerberg
