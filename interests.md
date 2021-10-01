@@ -139,7 +139,7 @@ Member Id: 9
 * Track of interest: Web Development
 * Favourite quote: Beauty better than ugly 
 * Author of quote: yokwejuste5013
-* Role model: ....
+* Role model: Elon musk
 
   
 + Id: 7
