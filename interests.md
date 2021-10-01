@@ -118,3 +118,11 @@ Member Id: 6
 * Favourite quote:  you know the true meaning of peace only if you have been through the war
 * Author of quote: kosovar
 * Role model: Elon Musk.
+
+
+Member Id: 7
+* Favourite Programming Language: PHP
+* Track of interest: web development,APIs and Server dev
+* Favourite quote:  "what so ever the mind can conceive and believe, it can achieve"
+* Author of quote: Albert Einstein 
+* Role model: mark Zuckerberg 
