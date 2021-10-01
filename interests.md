@@ -191,3 +191,10 @@ Member Id: 8
 * Favourite quote: “Truth can only be found in one place: the code.”
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
+
+Member Id: 11
+* Favourite Programming Language: Dart/Flutter
+* Track of interest: mobile development, data analysis, data science
+* Favourite quote:  "The purpose of our lives is to be happy"
+* Author of quote: Dalai Lama 
+* Role model: Carla Gentry 
