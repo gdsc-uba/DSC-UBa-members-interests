@@ -114,7 +114,7 @@ Member Id: 9
 
 Member Id: 1
 * Favourite Programming Language: Python
-* Track of interest: Web devolopement
+* Track of interest: Web application devolopement
 * Favourite quote: Imagination is more important than knowledge
 * Author of quote: Albert Einstein
 * Role model: Mark zuckerberg
