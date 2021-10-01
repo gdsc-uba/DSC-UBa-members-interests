@@ -194,6 +194,13 @@ Member Id: 8
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
 
+ Member Id: 10
+* Favourite Programming Language: Python
+* Track of interest: Data Science
+* Favourite quote: “You may delay, but time will not”
+* Author of quote: Benjamin Franklin
+* Role model: Mrs. Martin Ngassa
+
 Member Id: 11
 * Favourite Programming Language: Dart/Flutter
 * Track of interest: mobile development, data analysis, data science
