@@ -110,7 +110,14 @@ Member Id: 14
 * Track of interest: Web Development
 * Favourite quote: Beauty better than ugly 
 * Author of quote: yokwejuste
-* Role model: ....
+* Role model: ...
+ 
+Member Id: 1
+* Favourite Programming Language: Python
+* Track of interest: Web application devolopement
+* Favourite quote: Imagination is more important than knowledge
+* Author of quote: Albert Einstein
+* Role model: Mark zuckerberg
 
 Member Id: 15
 Programming Language: python/kotlin
@@ -150,3 +157,4 @@ Member Id: 17
 
    
    
+ 
