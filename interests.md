@@ -118,3 +118,9 @@ Member Id: 6
 * Favourite quote:  you know the true meaning of peace only if you have been through the war
 * Author of quote: kosovar
 * Role model: Elon Musk.
+Member Id: 9
+* Favourite Programming Language: Python
+* Track of interest: Web Development
+* Favourite quote: Beauty better than ugly 
+* Author of quote: yokwejuste5013
+* Role model: ....
