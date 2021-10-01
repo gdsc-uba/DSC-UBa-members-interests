@@ -119,6 +119,14 @@ Programming Language: python/kotlin
 * Author of quote: kosovar
 * Role model: Elon Musk.
 
+   
+Member Id: 3
+* Favourite Programming Language: Javascript
+* Track of interest: mobile/web development
+* Favourite quote: 'People don't buy what you do; they buy why you do it'
+* Author of quote: Simon Sinek
+* Role model: Denva
+ 
 Member Id: 16
 * Favourite Programming Language: PHP
 * Track of interest: Web Development(front end/back end) 
@@ -133,3 +141,4 @@ Member Id: 17
 * Author of quote: Albert Einstein 
 * Role model: mark Zuckerberg 
 
+   
