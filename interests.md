@@ -191,3 +191,10 @@ Member Id: 8
 * Favourite quote: “Truth can only be found in one place: the code.”
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
+
+Member Id: 9
+* Favourite Programming Language: Java
+* Track of interest: Blockchain development
+* Favourite quote: Privacy is the key to success
+* Author of quote: Spyke Lionel
+* Role model: NDI Lionel
