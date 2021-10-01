@@ -171,5 +171,10 @@ Member Id: 17
 * Role model: mark Zuckerberg 
 
    
-   
+Member Id: 8
+* Favourite Programming Language: Python
+* Track of interest: web development and Machine Learning
+* Favourite quote:  "We write to taste life twice, in the moment and in retrospect."
+* Author of quote: Anaïs Nin
+* Role model: Ngochi Huebert
  
