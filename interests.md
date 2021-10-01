@@ -191,3 +191,10 @@ Member Id: 8
 * Favourite quote: “Truth can only be found in one place: the code.”
 * Author of quote: Robert C. Martin
 * Role model: Bill Gates
+
+Member Id: 11
+Favourite Programming Language: Java
+Track of interest: Mobile app developer
+Favourite quote: Everything you want is on the other side of fear
+Author of quote: Jack Canfield
+Role model: Julianna Rotich
