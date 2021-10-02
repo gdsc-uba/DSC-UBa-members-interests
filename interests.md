@@ -235,3 +235,10 @@ Member Id: 11
 * Favourite quote: "Imagination is more important than knoledge."
 * Author of quote: Albert Einstein
 * Role model: Marshal Mathers
+
+Member Id: 13
+* Favourite Programming Language: Dart/Flutter
+* Track of interest: App Development
+* Favourite quote: "Get The Job Done"
+* Author of quote: Chris Do
+* Role model: null
