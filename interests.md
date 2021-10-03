@@ -242,3 +242,10 @@ Member Id: 13
 * Favourite quote: "Get The Job Done"
 * Author of quote: Chris Do
 * Role model: null
+
+Member Id: 14
+* Favourite Programming Language: Python/Django
+* Track of interest: Web and Mobile Development
+* Favourite quote: "Without continual growth and progess, words such as improvement, achievement and success have no meaning."
+* Author of quote: "Benjamin Franklin"
+* Role model: Jesus
