@@ -249,3 +249,10 @@ Member Id: 14
 * Favourite quote: "Without continual growth and progess, words such as improvement, achievement and success have no meaning."
 * Author of quote: "Benjamin Franklin"
 * Role model: Jesus
+
+Member Id: 15
+* Favourite Programming Language: JavaScript
+* Track of interest: Web/App Development
+* Favourite quote: Build your dream or someone else will hire you to build their
+* Author of quote: Farrah Gray
+* Role model: Future Me
