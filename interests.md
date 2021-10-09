@@ -256,3 +256,11 @@ Member Id: 15
 * Favourite quote: Build your dream or someone else will hire you to build their
 * Author of quote: Farrah Gray
 * Role model: Future Me
+
+
+Member Id: 15
+* Favourite Programming Language: JavaScript
+* Track of interest: Web Services
+* Favourite quote: One man’s crappy software is another man’s full time job.
+* Author of quote: Anonymous
+* Role model: My dream self
