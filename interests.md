@@ -264,3 +264,10 @@ Member Id: 15
 * Favourite quote: One man’s crappy software is another man’s full time job.
 * Author of quote: Anonymous
 * Role model: My dream self
+
+Member Id: 18
+* Favourite Programming Language: Dart/Flutter
+* Track of interest: App Development
+* Favourite quote: "How far the mighty have fallen"
+* Author of quote: null
+* Role model: null
